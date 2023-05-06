@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFMounishRepoIntegration"
+		},
+		"LinkedServiceBlob_connectionString": {
+			"value": ""
 		}
 	}
 }

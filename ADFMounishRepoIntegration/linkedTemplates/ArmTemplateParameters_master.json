@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFMounishRepoIntegration"
 		},
+		"LinkedServiceBlob_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
