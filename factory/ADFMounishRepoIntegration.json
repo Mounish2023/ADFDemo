@@ -1,0 +1,9 @@
+{
+	"name": "ADFMounishRepoIntegration",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a17d07e-ab14-434a-b545-7e01de071987",
+		"tenantId": "f5222e6c-5fc6-48eb-8f03-73db18203b63"
+	}
+}
